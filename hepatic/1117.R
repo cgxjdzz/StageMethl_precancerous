@@ -1,4 +1,3 @@
-#去掉41384再来一次
 
 
 inter=intersect(rownames(beta_GSE46306),rownames(beta_TCGA))
